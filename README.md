@@ -52,3 +52,5 @@
 ### Command Handling (`inputCommand` method)
 - `inputParams` (`vector<string>`): Variable size.
 - Command-specific data handling.
+
+<img width="627" alt="image" src="https://github.com/AntoninaNov/TCP-Client-Server/assets/56410053/ea308836-2e9f-4726-8ac8-dffd99c1d061">
